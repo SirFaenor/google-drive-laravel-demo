@@ -65,6 +65,11 @@ return [
             'endpoint' => env('AWS_ENDPOINT'),
         ],
 
+        'google' => [
+            'driver' => 'google',
+            'folder_id' => '1zY4P1TqugUR3Qd6RbXsjcaWlNGY1J8WY',
+        ],
+
     ],
 
     /*
